@@ -23,6 +23,8 @@
 	justify-content: space-around;
 }
 
+.flex-wrap { flex-wrap:wrap; }
+
 /* TYPOGRAPHY */
 
 .text-center {text-align:center;}
